@@ -50,3 +50,6 @@ So, where I once perceived those I deemed smarter as adversaries, I now see them
 Some open and frank conversations with my fellow Atlassians during peer reviews, one-on-ones, and even in casual hallway interactions helped me in this shift of mindset. Because that’s another amazing thing about the way our company works: we have access to literally everyone in the company.
 
 It might not be possible to retrofit a company to have a similar level of openness and commitment to authenticity, but it’s not too hard to adopt the growth mindset concepts to influence peer interactions. We can choose to be more transparent or more helpful than might be required or than we’re used to. In other words, we can choose to go the extra mile, we can choose to be quick to praise and slow to criticize. We can choose to seek first to understand.
+
+
+this paragraph indicates that push has been done well
