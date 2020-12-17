@@ -2,7 +2,7 @@
 
 *Perseverance, gumption traps, and maintaining a growth mindset*
 
-**1- Challenges
+# 1- Challenges
 
 Here’s an example of when I wasn’t in the right mindset: learning Java. I studied a bit of Java at university, and have worked with it in almost every role I’ve had (including my current gig as a developer on Jira Software), and yet I still find it hard to get my head around.
 
@@ -10,7 +10,7 @@ When I’m faced with a challenging coding problem, I have a tendency to work ov
 
 So, lately, I try to recognize that avoidance, take a step back, and think about the growth mindset. When I’m ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. And for me, it always helps to talk through these steps – out loud, not just in my head. I jot down clues as they come about. Soon enough (and rather miraculously), I begin to find root causes of the problem.
 
-**2- Obstacles
+# 2- Obstacles
 
 My first impulse when I hit a roadblock is to immediately divert my attention to something else. I lose focus, just like it says in the chart above. Whether it’s clicking a tempting bookmark in my browser, nipping out to grab a coffee, or just about anything to delay keeping at it and fighting through the discomfort. A coworker calls this “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
 
@@ -18,7 +18,7 @@ In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “g
 
 So when I find myself reaching for the snooze button, I consider all this. I make a conscious effort to stop and think about the growth mindset. I ask myself, is going back to sleep really what I want to do? Am I giving up too easily? Would I rather shower off pangs of regret, or the sweat of accomplishment? C’mon, the answers are obvious.
 
-**3- Effort
+# 3- Effort
 
 I have similar troubles with cycling. When my alarm goes off at 5 A.M., the thought of going out on the bike is dreadful. The temptation to stay in bed is strong, strong, strong – curse you, instant gratification monkey – but I also know the feeling won’t last and I’ll feel guilty later, as always. The trite-but-true phrase “no pain, no gain” is pure growth mindset!
 
@@ -41,7 +41,7 @@ And it turns out, variations of these questions help me process criticism from c
     What can I do to improve the aspects I’m less proud of?
 
 That’s the dark side of growth, I guess…
-**5. Success of others**
+# 5. Success of others**
 
 My team inclydes some of the smartest people I’ve ever worked with. But I didn’t always think this way.
 
